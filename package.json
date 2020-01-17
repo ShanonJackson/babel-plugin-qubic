@@ -1,6 +1,6 @@
 {
 	"name": "babel-plugin-qubic",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"description": "Qubic babel plugin for aggressive tree shaking",
 	"main": "index.js",
 	"scripts": {
