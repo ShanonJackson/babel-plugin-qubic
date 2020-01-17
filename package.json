@@ -34,5 +34,5 @@
 		"rollup-plugin-url": "^3.0.1",
 		"typescript": "^3.7.4"
 	},
-	"repository": "andreypopp/react-textarea-autosize"
+	"repository": "ShanonJackson/babel-plugin-qubic"
 }
